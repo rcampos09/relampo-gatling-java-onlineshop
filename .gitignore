@@ -1,0 +1,14 @@
+# Maven / Gatling
+target/
+
+# Logs y trace HTTP (incluyen cookies y datos del checkout)
+*.log
+
+# Grabaciones del navegador (contienen datos personales y cookies)
+*.har
+
+# IDE y sistema
+.idea/
+.vscode/
+*.iml
+.DS_Store
